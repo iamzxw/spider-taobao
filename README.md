@@ -60,3 +60,4 @@ code/test001.py代码，使用多线程同时对某个商品类目，发起淘�
 [利用Python爬虫爬取淘宝商品做数据挖掘分析实战篇，超详细教程](https://zhuanlan.zhihu.com/p/34375874)
 [Python爬取淘宝商品信息](https://blog.csdn.net/u014044812/article/details/100563668)
 [Python模拟登录淘宝](https://blog.csdn.net/u014044812/article/details/99584382)
+[Pig6](https://github.com/pig6)
