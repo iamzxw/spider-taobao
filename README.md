@@ -17,7 +17,8 @@
 ![](imgs/bar001.png)
 ![](imgs/bar002.png)
 ![](imgs/bar003.png)
-![](imgs/map001.png)
+
+[comment]: <> (![]&#40;imgs/map001.png&#41;)
 ![](imgs/map002.png)
 
 
