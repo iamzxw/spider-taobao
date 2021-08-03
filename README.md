@@ -5,14 +5,21 @@
 
 2，查找全网（淘宝网）销量最高的商品，这个估计有点麻烦，需要爬取全量商品信息
 
-## pythnon 爬虫框架
 
-分析各个爬虫框架特性，选择一个合适的
+## 爬取"帽子"商品销售信息
 
-- requests：
-- scrapy：
-- pyppeteer：
-- selenium：
+![](imgs/cmd.png)
+
+具体见code/spider_taobao.py代码
+
+## 帽子商品数据分析
+
+![](imgs/bar001.png)
+![](imgs/bar002.png)
+![](imgs/bar003.png)
+![](imgs/map001.png)
+![](imgs/map002.png)
+
 
 ## 分析淘宝网
 重点关注商品url
@@ -53,6 +60,15 @@ code/test001.py代码，使用多线程同时对某个商品类目，发起淘�
 ### 多线程，多进程
 
 ### 分布式抓取
+
+## pythnon 爬虫框架
+
+分析各个爬虫框架特性，选择一个合适的
+
+- requests：
+- scrapy：
+- pyppeteer：
+- selenium：
 
 
 # 参考文章
